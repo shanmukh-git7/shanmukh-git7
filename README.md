@@ -8,20 +8,20 @@ My work focuses on **application security, vulnerability management, security au
 
 ---
 
-## 🛡️ What I Build
+##  What I Build
 
-- 🔍 Vulnerability detection and assessment tools
-- 🔐 Application and API security solutions
-- ⚙️ Security automation systems
-- 🚨 Threat detection and security monitoring tools
-- 📊 Security reporting and vulnerability intelligence platforms
-- 🧪 Security research and experimental projects
+-  Vulnerability detection and assessment tools
+-  Application and API security solutions
+-  Security automation systems
+-  Threat detection and security monitoring tools
+-  Security reporting and vulnerability intelligence platforms
+-  Security research and experimental projects
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔎 Dependency Vulnerability Scanner
+###  Dependency Vulnerability Scanner
 > Automated vulnerability analysis for software dependencies.
 
 **Focus:** Dependency Security • CVE Analysis • CVSS • Vulnerability Management • Security Automation
@@ -30,7 +30,7 @@ My work focuses on **application security, vulnerability management, security au
 
 ---
 
-### 🌐 Port Scanner
+###  Port Scanner
 > Network reconnaissance and service discovery tool developed for authorized security testing and learning.
 
 **Focus:** Network Security • TCP Scanning • Service Discovery • Python
@@ -39,7 +39,7 @@ My work focuses on **application security, vulnerability management, security au
 
 ---
 
-### 🔑 Password Strength Analyzer
+###  Password Strength Analyzer
 > Password security analysis tool designed to evaluate password strength and security characteristics.
 
 **Focus:** Authentication Security • Password Security • Python
@@ -48,7 +48,7 @@ My work focuses on **application security, vulnerability management, security au
 
 ---
 
-## 💻 Technical Focus
+##  Technical Focus
 
 ### Programming
 `Python` `Java` `JavaScript` `SQL`
@@ -64,7 +64,7 @@ My work focuses on **application security, vulnerability management, security au
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 My current interests include:
 
@@ -79,26 +79,26 @@ My current interests include:
 
 ---
 
-## 📚 Currently Working On
+##  Currently Working On
 
-🔭 Building advanced cybersecurity projects  
-🛡️ Improving vulnerability detection and security automation  
-🔬 Exploring cybersecurity research topics  
-📖 Preparing for advanced studies in cybersecurity  
+ Building advanced cybersecurity projects  
+ Improving vulnerability detection and security automation  
+ Exploring cybersecurity research topics  
+ Preparing for advanced studies in cybersecurity  
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 I use GitHub to document my development, security research, experiments, and open-source projects.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/shanmukhanaidu
-- 🌐 Portfolio: **Coming soon**
-- 📧 Email: naidushanmukh7@gmail.com
+-  LinkedIn: www.linkedin.com/in/shanmukhanaidu
+-  Portfolio: 
+-  Email: naidushanmukh7@gmail.com
 
 ---
 
